@@ -8,3 +8,4 @@ user.surname = "Smith";
 user.name = "pete";
 // remove the property name from object
 delete user.name;
+// the above line deletes user.name
